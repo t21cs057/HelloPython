@@ -12,5 +12,5 @@ d = 10; e = 0.000001; f = "string"
 print(a,b,c)
 print(d,e,f)
 
-for x in range(0,10,2):
+for x in range(0,10):
     print(x)
